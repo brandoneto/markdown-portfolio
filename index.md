@@ -2,20 +2,11 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+:smile:
 
 <br>
 
-{% include 02-image.md %}
-
+1. 🤦
+2. 💙
 <br>
 
-{% include 03-links.md %}
-
-<br>
-
-{% include 04-lists.md %}
-
-<br>
-
-{% include 05-emphasis.md %}

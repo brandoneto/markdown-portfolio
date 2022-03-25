@@ -10,3 +10,4 @@ layout: default
 2. 💙
 <br>
 
+- Cool
